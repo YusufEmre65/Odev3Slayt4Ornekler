@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3Slayt4Ornek1", "Odev3Slayt4\Odev3Slayt4Ornek1.csproj", "{88C2D962-7AB3-4F14-B697-CF2F0092EF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3Slayt4Ornek2", "Odev3Slayt4Ornek2\Odev3Slayt4Ornek2.csproj", "{40FA4150-17D9-47CA-8043-ECEF5CA3A78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88C2D962-7AB3-4F14-B697-CF2F0092EF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C2D962-7AB3-4F14-B697-CF2F0092EF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C2D962-7AB3-4F14-B697-CF2F0092EF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C2D962-7AB3-4F14-B697-CF2F0092EF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40FA4150-17D9-47CA-8043-ECEF5CA3A78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40FA4150-17D9-47CA-8043-ECEF5CA3A78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40FA4150-17D9-47CA-8043-ECEF5CA3A78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40FA4150-17D9-47CA-8043-ECEF5CA3A78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B18F879-B1C7-40C4-8F23-3CF95AA0B61B}
+	EndGlobalSection
+EndGlobal
